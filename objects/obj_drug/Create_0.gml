@@ -1,0 +1,36 @@
+//Stats
+size = 4 //radius of line USUALLY 4
+d = 2  //diameter of line USUALLY 2
+done = 0 //setup vars
+wrapped = global.wrap //tell whether to be wrapped
+t_0 = 0
+t_1 = 0
+t_2 = 0
+t_3 = 0
+t_4 = 0
+t_5 = 0
+t_6 = 0
+t_7 = 0
+t_8 = 0
+t_9 = 0
+t_10 = 0
+t_11 = 0
+t_12 = 0
+t_13 = 0
+t_14 = 0
+t_15 = 0
+t_16 = 0
+t_17 = 0
+t_18 = 0
+t_19 = 0
+t_20 = 0
+t_21 = 0
+t_22 = 0
+t_23 = 0
+
+global.count += 1
+cel = -1 //cell starts empty
+written = 0
+done_b = 0
+max_list = global.max_list //max number of drugs on list
+ch_write = 0
