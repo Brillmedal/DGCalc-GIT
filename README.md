@@ -19,6 +19,7 @@ a superior version to port over; who knows.
 ## HOW DO I INSTALL/USE THIS + TOO LONG DIDN'T READ
 
 **Download the RAR file and extract anywhere you like, open the DGCCalc.exe and the program will launch Enter your drug, dosage, the time you plan to take it and hit enter. The entry will appear on the last page on the right, chronologically listed. To edit entries click on the specific one, adpat and hit enter again, or to delete just click and don't re-submit. The schedules are saved to file automatically and to clear a preset just press escape or hit clear. You can use the arrow keys to change hour and dosage, or hold shift and arrows to change drug/incremental dosage. numbers 1-5 change presets. Enjoy.**
+**Add your custom drugs by going to %USERNAME%/appdata/local/DSGalc/list.txt edit, save + relaunch. You can copy other people's text files or custom drugs and paste in, if it stops working or crashes you may have messed up the order, delete the file and it will recreate itself from default**
 
 
 ## WHAT ARE THE AXIS?
@@ -151,6 +152,8 @@ ESC = CLEAR
 
 -This is not bug tested, so dont be surprised if things are a bit scratchy although I've managed to fix
 everything I've come into contact with yet, though i'm sure things have slipped through the net.
+
 -Can't resize window? Yep it doesn't resize, it's a set resolution for now since when I made it for myself I
 thought it was perfectly big enough. I'd need to adapt the code to be able to scale and I haven't done that
+
 -If in doubt, delete all the text files in Users/%USERNAME%/appdata/local/DSGalc and they will be recreated fresh on startup, but you will lose your list file so if there's anything you want to keep, save a backup.
